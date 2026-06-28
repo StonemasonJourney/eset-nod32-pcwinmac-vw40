@@ -1,4 +1,4 @@
-# 
+# Advanced ESET NOD32 workflow for Mac OS | Open Source ESET NOD32 workflow for PC Windows. Featuring data caching and private settings — optimized for maximum performance on every platform.
 
 
 
